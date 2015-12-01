@@ -2,6 +2,8 @@
 웹페이지에서 URI스키마를 사용한 외부 프로세스 실행
 https://msdn.microsoft.com/en-us/library/aa767914(v=vs.85).aspx
 
+라이센스: [MLPL](https://msdn.microsoft.com/ko-kr/cc300389.aspx)
+
 2015.12.01
 - 회사 작업중 웹에서 exe파일을 실행해야 할 일이 생겼습니다.
 예전에 게임회사 다닐때 개발했던 웹런처(ActiveX)를 사용하려했는데 IE만 지원되는 단점이 있네요.
