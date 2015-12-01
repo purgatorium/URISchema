@@ -15,7 +15,7 @@ https://msdn.microsoft.com/en-us/library/aa767914(v=vs.85).aspx
  2. CustomURISchemaTest: 전달받은 파라미터를 URLDecode해서 화면에 보여주는 테스트 프로그램
  3. uri_test.html: 테스트 웹페이지
 
-- 윈도우 XP는 지원안합니다 (.NET 4.0)
+- 윈도우 XP는 지원안합니다 (아마도...)
 
 
 ```
